@@ -1,0 +1,5 @@
+{
+  "name": "Wastage Reduction System",
+  "description": "A web application to track and manage waste, promoting reduction, recycling, and reuse. It features a dashboard with analytics, waste record management, and reporting with chart visualizations.",
+  "requestFramePermissions": []
+}
