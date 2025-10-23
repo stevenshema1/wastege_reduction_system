@@ -65,13 +65,15 @@ npm install
 
 # Start the server
 npm start
-```
-AFTER CHANGE DIRECTORY TO frontent to see frontend side of My Application
 
--   cd frontend 
+-cd frontend 
 - nom install
 -npm run dev for 
 YOU WILL SEE YOUR LOCAL IP ADDRESS TO ACCESS IN YOUR BROWSER 
+```
+AFTER CHANGE DIRECTORY TO frontent to see frontend side of My Application
+
+
 
 The server will start running on `http://localhost:3001`. You will see a confirmation message in your terminal, along with the default login credentials.
 
